@@ -1,0 +1,14 @@
+{
+  "name": "jogodosanimais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Eduardo Fazolo",
+  "license": "ISC"
+}
